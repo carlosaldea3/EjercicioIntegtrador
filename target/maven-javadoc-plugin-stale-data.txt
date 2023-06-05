@@ -1,0 +1,46 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'19'
+-sourcepath
+'C:/Users/carlo/OneDrive/Documentos/NetBeansProjects/EjercicioIntegrador/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/carlo/OneDrive/Documentos/NetBeansProjects/EjercicioIntegrador/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'EjercicioIntegrador 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'EjercicioIntegrador 1.0-SNAPSHOT API'
+com.mycompany.ejerciciointegrador
+C:\Users\carlo\OneDrive\Documentos\NetBeansProjects\EjercicioIntegrador\src\main\java = 1685964974784
+C:\Users\carlo\OneDrive\Documentos\NetBeansProjects\EjercicioIntegrador\target\site\apidocs\allclasses-index.html = 1685965669664
+C:\Users\carlo\OneDrive\Documentos\NetBeansProjects\EjercicioIntegrador\target\site\apidocs\allpackages-index.html = 1685965669666
+C:\Users\carlo\OneDrive\Documentos\NetBeansProjects\EjercicioIntegrador\target\site\apidocs\constant-values.html = 1685965669635
+C:\Users\carlo\OneDrive\Documentos\NetBeansProjects\EjercicioIntegrador\target\site\apidocs\copy.svg = 1685965669690
+C:\Users\carlo\OneDrive\Documentos\NetBeansProjects\EjercicioIntegrador\target\site\apidocs\element-list = 1685965669613
+C:\Users\carlo\OneDrive\Documentos\NetBeansProjects\EjercicioIntegrador\target\site\apidocs\help-doc.html = 1685965669686
+C:\Users\carlo\OneDrive\Documentos\NetBeansProjects\EjercicioIntegrador\target\site\apidocs\index-all.html = 1685965669678
+C:\Users\carlo\OneDrive\Documentos\NetBeansProjects\EjercicioIntegrador\target\site\apidocs\index.html = 1685965669682
+C:\Users\carlo\OneDrive\Documentos\NetBeansProjects\EjercicioIntegrador\target\site\apidocs\jquery-ui.overrides.css = 1685965669704
+C:\Users\carlo\OneDrive\Documentos\NetBeansProjects\EjercicioIntegrador\target\site\apidocs\member-search-index.js = 1685965669669
+C:\Users\carlo\OneDrive\Documentos\NetBeansProjects\EjercicioIntegrador\target\site\apidocs\module-search-index.js = 1685965669667
+C:\Users\carlo\OneDrive\Documentos\NetBeansProjects\EjercicioIntegrador\target\site\apidocs\overview-tree.html = 1685965669654
+C:\Users\carlo\OneDrive\Documentos\NetBeansProjects\EjercicioIntegrador\target\site\apidocs\package-search-index.js = 1685965669668
+C:\Users\carlo\OneDrive\Documentos\NetBeansProjects\EjercicioIntegrador\target\site\apidocs\script.js = 1685965669689
+C:\Users\carlo\OneDrive\Documentos\NetBeansProjects\EjercicioIntegrador\target\site\apidocs\search-page.js = 1685965669695
+C:\Users\carlo\OneDrive\Documentos\NetBeansProjects\EjercicioIntegrador\target\site\apidocs\search.html = 1685965669680
+C:\Users\carlo\OneDrive\Documentos\NetBeansProjects\EjercicioIntegrador\target\site\apidocs\search.js = 1685965669693
+C:\Users\carlo\OneDrive\Documentos\NetBeansProjects\EjercicioIntegrador\target\site\apidocs\stylesheet.css = 1685965669688
+C:\Users\carlo\OneDrive\Documentos\NetBeansProjects\EjercicioIntegrador\target\site\apidocs\tag-search-index.js = 1685965669670
+C:\Users\carlo\OneDrive\Documentos\NetBeansProjects\EjercicioIntegrador\target\site\apidocs\type-search-index.js = 1685965669669
